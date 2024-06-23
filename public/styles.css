@@ -1,0 +1,42 @@
+:root {
+    color-scheme: light/*  dark */;
+    font-size: 1rem;
+    color: #323030;
+    font-family: 'Bahnschrift', sans-serif;
+}
+
+body {
+    /* display: flex; */
+    /* flex-direction: column; */
+}
+
+.grid-container {
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    background-color: #e6e5e5;
+    border-radius: 0.5rem;
+    padding: 0.2rem;
+}
+
+.row {
+	display: grid;
+	grid-template-columns: 5fr 5fr 3fr 3fr;
+    border-radius: 0.4rem;
+}
+
+.cell {
+    padding: 0.3rem 0.6rem;
+    margin: 0.2rem;
+    background-color: white;
+    cursor: pointer;
+    border-radius: 0.3rem;
+}
+
+.row:hover {
+	background-color: rgb(157, 186, 237);
+}
+
+.row:hover .cell {
+    background-color: rgb(208, 217, 234);
+}

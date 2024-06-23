@@ -1,0 +1,154 @@
+{
+    "company": "Ladrillos Fortes",
+    "plant":   "Trujillo",
+    "personal": [
+        {
+            "id": 0,
+            "name": "Luis Alexander",
+            "lastName": "Juarez Mercedes",
+            "dni": 73804493,
+            "income": "02-01-2023",
+            "area": "administrativo",
+            "schedule": "6x1",
+            "jobs": [
+                "gerente de operaciones",
+                "jefe de turno",
+                "gerente de turno"
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Juan Manuel",
+            "lastName": "Chalan Castro",
+            "dni": 45048513,
+            "income": "11-02-2014",
+            "area": "administrativo",
+            "schedule": "6x1",
+            "jobs": [
+                "jefe de turno",
+                "gerente de turno"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Carlos Humberto",
+            "lastName": "Principe Quipuscoa",
+            "dni": 43485059,
+            "income": "28-08-2018",
+            "area": "administrativo",
+            "schedule": "6x1",
+            "jobs": [
+                "gerente de ventas",
+                "jefe de ventas",
+                "coordinador de ventas"
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Renzo",
+            "lastName": "Quinto Zapana",
+            "dni": 75359301,
+            "income": "21-07-2023",
+            "area": "administrativo",
+            "schedule": "6x1",
+            "jobs": [
+                "Jefe de Turno",
+                "Jefe de Formado"
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Alexander Enrique",
+            "lastName": "Rios Zapata",
+            "dni": 42478539,
+            "income": "20-02-2010",
+            "area": "administrativo",
+            "schedule": "6x1",
+            "jobs": [
+                "Gerente de Unidad de Negocios",
+                "Gerente de Operaciones",
+                "Gerente de Ventas"
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Luis Eduardo",
+            "lastName": "Siccha Maco",
+            "dni": 72607052,
+            "income": "03-11-2023",
+            "area": "administrativo",
+            "schedule": "6x1",
+            "jobs": [
+                "Jefe de Informacion",
+                "Jefe de Seguridad"
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Eddy Norberto",
+            "lastName": "Yncio Delgado",
+            "dni": 16789213,
+            "income": "01-03-2007",
+            "area": "administrativo",
+            "schedule": "5x2",
+            "jobs": [
+                "Gerente de Mantenimiento",
+                "Jefe de Mantenimiento",
+                "Jefe de Proyectos"
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Peter Anthony",
+            "lastName": "Ysique Araujo",
+            "dni": 72947651,
+            "income": "25-10-2023",
+            "area": "administrativo",
+            "schedule": "5x2",
+            "jobs": [
+                "Jefe de Turno"
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Santos",
+            "lastName": "Cerna Castro",
+            "dni": 46804245,
+            "income": "26-09-2023",
+            "area": "administrativo",
+            "schedule": "6x1",
+            "jobs": [
+                "coordinador de ventas"
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Miguel Luis",
+            "lastName": "Alfaro Villanueva",
+            "dni": 45951515,
+            "income": "25-06-2020",
+            "area": "personal de planta",
+            "schedule": "6x1",
+            "jobs": [
+                "cargador frontal",
+                "apoyo en carga",
+                "pinza de descarga",
+                "limpieza de vagones"
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Edwin Javier",
+            "lastName": "Argomedo Cruzado",
+            "dni": 70559287,
+            "income": "17-08-2022",
+            "area": "personal de planta",
+            "schedule": "6x1",
+            "jobs": [
+                "despacho",
+                "Montacargas",
+                "limpieza de vagones"
+            ]
+        }
+    ]
+}
